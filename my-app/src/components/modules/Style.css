@@ -1,0 +1,11 @@
+.footerend{
+    background-color: rgb(202, 202, 202);
+}
+
+.separator{
+    width: auto;
+    height: 1px;
+    background-color: rgb(202, 202, 202);
+    margin-bottom: 10px;
+    margin-top: -25px;
+}
